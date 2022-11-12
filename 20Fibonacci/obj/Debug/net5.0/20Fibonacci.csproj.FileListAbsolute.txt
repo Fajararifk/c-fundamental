@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\bin\Debug\net5.0\20Fibonacci.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\refint\20Fibonacci.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\20Fibonacci.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\20Fibonacci\obj\Debug\net5.0\ref\20Fibonacci.dll

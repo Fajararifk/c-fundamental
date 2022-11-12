@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\bin\Debug\net5.0\7InsertionSorting.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\refint\7InsertionSorting.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\7InsertionSorting.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\7InsertionSorting\obj\Debug\net5.0\ref\7InsertionSorting.dll

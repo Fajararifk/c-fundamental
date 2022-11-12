@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\bin\Debug\net5.0\4BinaryNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\refint\4BinaryNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\4BinaryNumbers.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BinaryNumbers\obj\Debug\net5.0\ref\4BinaryNumbers.dll

@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\bin\Debug\net5.0\16ReverseNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\refint\16ReverseNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\16ReverseNumbers.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\16ReverseNumbers\obj\Debug\net5.0\ref\16ReverseNumbers.dll

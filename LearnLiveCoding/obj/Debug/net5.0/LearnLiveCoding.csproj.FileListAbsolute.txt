@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\bin\Debug\net5.0\LearnLiveCoding.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\refint\LearnLiveCoding.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\LearnLiveCoding.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\LearnLiveCoding\obj\Debug\net5.0\ref\LearnLiveCoding.dll

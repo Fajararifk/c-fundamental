@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\bin\Debug\net5.0\6BubbleSort.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\refint\6BubbleSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\6BubbleSort.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\BubbleSort\obj\Debug\net5.0\ref\6BubbleSort.dll

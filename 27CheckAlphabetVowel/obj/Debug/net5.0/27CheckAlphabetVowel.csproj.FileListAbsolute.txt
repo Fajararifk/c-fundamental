@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\bin\Debug\net5.0\27CheckAlphabetVowel.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\refint\27CheckAlphabetVowel.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\27CheckAlphabetVowel.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\27CheckAlphabetVowel\obj\Debug\net5.0\ref\27CheckAlphabetVowel.dll

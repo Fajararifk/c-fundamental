@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\bin\Debug\net5.0\29MostFrequent.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\refint\29MostFrequent.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\29MostFrequent.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\29MostFrequent\obj\Debug\net5.0\ref\29MostFrequent.dll

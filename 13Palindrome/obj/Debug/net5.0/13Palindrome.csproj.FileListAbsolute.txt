@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\bin\Debug\net5.0\13Palindrome.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\refint\13Palindrome.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\13Palindrome.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\13Palindrome\obj\Debug\net5.0\ref\13Palindrome.dll

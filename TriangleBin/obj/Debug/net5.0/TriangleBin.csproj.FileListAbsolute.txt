@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\bin\Debug\net5.0\TriangleBin.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\refint\TriangleBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\TriangleBin.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\TriangleBin\obj\Debug\net5.0\ref\TriangleBin.dll

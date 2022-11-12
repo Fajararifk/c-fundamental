@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\bin\Debug\net5.0\11PyramidPattern.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\refint\11PyramidPattern.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\11PyramidPattern.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\11PyramidPattern\obj\Debug\net5.0\ref\11PyramidPattern.dll

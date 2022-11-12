@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\bin\Debug\net5.0\8HeapSort.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\refint\8HeapSort.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\8HeapSort.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\8HeapSort\obj\Debug\net5.0\ref\8HeapSort.dll

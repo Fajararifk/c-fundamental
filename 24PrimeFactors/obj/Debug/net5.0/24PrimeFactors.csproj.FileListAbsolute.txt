@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\bin\Debug\net5.0\24PrimeFactors.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\refint\24PrimeFactors.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\24PrimeFactors.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\24PrimeFactors\obj\Debug\net5.0\ref\24PrimeFactors.dll

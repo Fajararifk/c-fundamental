@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\bin\Debug\net5.0\18RandomNumber.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\refint\18RandomNumber.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\18RandomNumber.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\18RandomNumber\obj\Debug\net5.0\ref\18RandomNumber.dll

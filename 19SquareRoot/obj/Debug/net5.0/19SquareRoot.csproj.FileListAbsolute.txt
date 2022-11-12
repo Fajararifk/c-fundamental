@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\bin\Debug\net5.0\19SquareRoot.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\refint\19SquareRoot.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\19SquareRoot.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\19SquareRoot\obj\Debug\net5.0\ref\19SquareRoot.dll

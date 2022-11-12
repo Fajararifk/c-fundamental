@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\bin\Debug\net5.0\26SortAListofNames.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\refint\26SortAListofNames.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\26SortAListofNames.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\26SortAListofNames\obj\Debug\net5.0\ref\26SortAListofNames.dll

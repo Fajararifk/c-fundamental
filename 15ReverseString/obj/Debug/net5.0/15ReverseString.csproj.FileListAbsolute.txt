@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\bin\Debug\net5.0\15ReverseString.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\refint\15ReverseString.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\15ReverseString.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\15ReverseString\obj\Debug\net5.0\ref\15ReverseString.dll

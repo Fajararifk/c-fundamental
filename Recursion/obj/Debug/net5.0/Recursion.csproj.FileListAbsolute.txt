@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\bin\Debug\net5.0\Recursion.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\refint\Recursion.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\Recursion.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\Recursion\obj\Debug\net5.0\ref\Recursion.dll

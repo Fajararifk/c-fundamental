@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\bin\Debug\net5.0\28LargestSecond.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\refint\28LargestSecond.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\28LargestSecond.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\28LargestSecond\obj\Debug\net5.0\ref\28LargestSecond.dll

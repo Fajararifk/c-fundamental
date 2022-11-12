@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\bin\Debug\net5.0\12SearchingBin.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\refint\12SearchingBin.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\12SearchingBin.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\12SearchingBin\obj\Debug\net5.0\ref\12SearchingBin.dll

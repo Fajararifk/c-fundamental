@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\bin\Debug\net5.0\17PrimeBetween.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\refint\17PrimeBetween.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\17PrimeBetween.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\17PrimeBetween\obj\Debug\net5.0\ref\17PrimeBetween.dll

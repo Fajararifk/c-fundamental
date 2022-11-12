@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\bin\Debug\net5.0\25LargestSmallestArray.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\refint\25LargestSmallestArray.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\25LargestSmallestArray.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\25LargestSmallestArray\obj\Debug\net5.0\ref\25LargestSmallestArray.dll

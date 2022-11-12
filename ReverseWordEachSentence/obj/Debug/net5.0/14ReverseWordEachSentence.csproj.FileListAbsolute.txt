@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\bin\Debug\net5.0\14ReverseWordEachSentence.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\refint\14ReverseWordEachSentence.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\14ReverseWordEachSentence.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\ReverseWordEachSentence\obj\Debug\net5.0\ref\14ReverseWordEachSentence.dll

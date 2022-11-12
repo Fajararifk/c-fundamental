@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\bin\Debug\net5.0\23GreatesNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\refint\23GreatesNumbers.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\23GreatesNumbers.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\23GreatesNumbers\obj\Debug\net5.0\ref\23GreatesNumbers.dll

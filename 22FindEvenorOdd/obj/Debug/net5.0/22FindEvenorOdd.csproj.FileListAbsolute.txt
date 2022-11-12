@@ -1,0 +1,16 @@
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.exe
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.deps.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.runtimeconfig.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.runtimeconfig.dev.json
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\bin\Debug\net5.0\22FindEvenorOdd.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.csproj.AssemblyReference.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.AssemblyInfoInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.AssemblyInfo.cs
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.csproj.CoreCompileInputs.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\refint\22FindEvenorOdd.dll
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.pdb
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\22FindEvenorOdd.genruntimeconfig.cache
+D:\BelajarSendiri\LiveCodingLearn\LearnLiveCoding\22FindEvenorOdd\obj\Debug\net5.0\ref\22FindEvenorOdd.dll
