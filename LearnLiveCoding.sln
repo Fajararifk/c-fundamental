@@ -3,63 +3,69 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DataType", "LearnLiveCoding\1DataType.csproj", "{B1EF9503-909C-4665-868C-AEA2DF23A10B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1DataType", "LearnLiveCoding\1DataType.csproj", "{B1EF9503-909C-4665-868C-AEA2DF23A10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Array", "2Array\2Array.csproj", "{44DBEAEE-21A2-49D6-8989-79F61B2E6F8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Array", "2Array\2Array.csproj", "{44DBEAEE-21A2-49D6-8989-79F61B2E6F8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Recursion", "Recursion\3Recursion.csproj", "{5382E23E-7B8F-4BDC-B1F2-CD5CCA97C35A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Recursion", "Recursion\3Recursion.csproj", "{5382E23E-7B8F-4BDC-B1F2-CD5CCA97C35A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4BinaryNumbers", "BinaryNumbers\4BinaryNumbers.csproj", "{A25E6D10-BE82-4060-9B83-5892D914EA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4BinaryNumbers", "BinaryNumbers\4BinaryNumbers.csproj", "{A25E6D10-BE82-4060-9B83-5892D914EA64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Array2D", "5Array2D\5Array2D.csproj", "{D7AFF5AE-A063-4D3C-B41B-17166D67508A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Array2D", "5Array2D\5Array2D.csproj", "{D7AFF5AE-A063-4D3C-B41B-17166D67508A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6BubbleSort", "BubbleSort\6BubbleSort.csproj", "{B23131BD-21EA-4C54-8CCF-5F93DD11447D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6BubbleSort", "BubbleSort\6BubbleSort.csproj", "{B23131BD-21EA-4C54-8CCF-5F93DD11447D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7InsertionSorting", "7InsertionSorting\7InsertionSorting.csproj", "{21489FAB-326A-4B25-8FEF-51FF33AA269C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7InsertionSorting", "7InsertionSorting\7InsertionSorting.csproj", "{21489FAB-326A-4B25-8FEF-51FF33AA269C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8HeapSort", "8HeapSort\8HeapSort.csproj", "{A69A49E7-FFDF-4488-A120-E077AF77D28B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8HeapSort", "8HeapSort\8HeapSort.csproj", "{A69A49E7-FFDF-4488-A120-E077AF77D28B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9MergeSort", "9MergeSort\9MergeSort.csproj", "{0A2D30C5-CF2A-4878-B72A-85829C953B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9MergeSort", "9MergeSort\9MergeSort.csproj", "{0A2D30C5-CF2A-4878-B72A-85829C953B8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10TriangleBin", "TriangleBin\10TriangleBin.csproj", "{68C4262B-F5E4-477A-8AA4-299B52F8843F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10TriangleBin", "TriangleBin\10TriangleBin.csproj", "{68C4262B-F5E4-477A-8AA4-299B52F8843F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11PyramidPattern", "11PyramidPattern\11PyramidPattern.csproj", "{D4906930-E0CB-43D0-8E5E-DEFB9E30000C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11PyramidPattern", "11PyramidPattern\11PyramidPattern.csproj", "{D4906930-E0CB-43D0-8E5E-DEFB9E30000C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12SearchingBin", "12SearchingBin\12SearchingBin.csproj", "{C1245BF2-901A-41B3-BC02-260A80FC5ECC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12SearchingBin", "12SearchingBin\12SearchingBin.csproj", "{C1245BF2-901A-41B3-BC02-260A80FC5ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13Palindrome", "13Palindrome\13Palindrome.csproj", "{0B70C49E-13E1-4D6E-A790-9275BE27028D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13Palindrome", "13Palindrome\13Palindrome.csproj", "{0B70C49E-13E1-4D6E-A790-9275BE27028D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15ReverseString", "15ReverseString\15ReverseString.csproj", "{6CD10A14-DC2D-4D33-B6CD-0DB730A4640A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15ReverseString", "15ReverseString\15ReverseString.csproj", "{6CD10A14-DC2D-4D33-B6CD-0DB730A4640A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14ReverseWordEachSentence", "ReverseWordEachSentence\14ReverseWordEachSentence.csproj", "{D389DE03-9770-4B6A-9F02-A9255E57BB66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14ReverseWordEachSentence", "ReverseWordEachSentence\14ReverseWordEachSentence.csproj", "{D389DE03-9770-4B6A-9F02-A9255E57BB66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16ReverseNumbers", "16ReverseNumbers\16ReverseNumbers.csproj", "{CE00524A-1DD8-4A33-822A-1AECE6130065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16ReverseNumbers", "16ReverseNumbers\16ReverseNumbers.csproj", "{CE00524A-1DD8-4A33-822A-1AECE6130065}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17PrimeBetween", "17PrimeBetween\17PrimeBetween.csproj", "{BCA0C02F-ABC2-4E56-96E4-EE0113AF1DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17PrimeBetween", "17PrimeBetween\17PrimeBetween.csproj", "{BCA0C02F-ABC2-4E56-96E4-EE0113AF1DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18RandomNumber", "18RandomNumber\18RandomNumber.csproj", "{54DCEA70-5C6C-4CFB-8E0F-B3EC1C4AA464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18RandomNumber", "18RandomNumber\18RandomNumber.csproj", "{54DCEA70-5C6C-4CFB-8E0F-B3EC1C4AA464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19SquareRoot", "19SquareRoot\19SquareRoot.csproj", "{1AC95D8F-BC54-4DFD-BF4B-597DEE6B73C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19SquareRoot", "19SquareRoot\19SquareRoot.csproj", "{1AC95D8F-BC54-4DFD-BF4B-597DEE6B73C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20Fibonacci", "20Fibonacci\20Fibonacci.csproj", "{7CFEFDEB-13B9-4790-B24A-10875F2E3707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20Fibonacci", "20Fibonacci\20Fibonacci.csproj", "{7CFEFDEB-13B9-4790-B24A-10875F2E3707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21FibonacciUsingRecursion", "21FibonacciUsingRecursion\21FibonacciUsingRecursion.csproj", "{987749DF-276B-4E1E-94B8-9D144FE4D79A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21FibonacciUsingRecursion", "21FibonacciUsingRecursion\21FibonacciUsingRecursion.csproj", "{987749DF-276B-4E1E-94B8-9D144FE4D79A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22FindEvenorOdd", "22FindEvenorOdd\22FindEvenorOdd.csproj", "{EAF0CF98-7435-4732-8448-528606F3DF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22FindEvenorOdd", "22FindEvenorOdd\22FindEvenorOdd.csproj", "{EAF0CF98-7435-4732-8448-528606F3DF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23GreatesNumbers", "23GreatesNumbers\23GreatesNumbers.csproj", "{63DF7494-2CEC-4508-B9E5-2EC54382FCA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23GreatesNumbers", "23GreatesNumbers\23GreatesNumbers.csproj", "{63DF7494-2CEC-4508-B9E5-2EC54382FCA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24PrimeFactors", "24PrimeFactors\24PrimeFactors.csproj", "{8AA06E57-6963-4F5D-813F-C4BF0DD4C4A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24PrimeFactors", "24PrimeFactors\24PrimeFactors.csproj", "{8AA06E57-6963-4F5D-813F-C4BF0DD4C4A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25LargestSmallestArray", "25LargestSmallestArray\25LargestSmallestArray.csproj", "{A584E875-642F-4398-9FD5-0FE92862DB68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25LargestSmallestArray", "25LargestSmallestArray\25LargestSmallestArray.csproj", "{A584E875-642F-4398-9FD5-0FE92862DB68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26SortAListofNames", "26SortAListofNames\26SortAListofNames.csproj", "{DAD56A8C-8536-4E9C-9872-29A7857E80F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26SortAListofNames", "26SortAListofNames\26SortAListofNames.csproj", "{DAD56A8C-8536-4E9C-9872-29A7857E80F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27CheckAlphabetVowel", "27CheckAlphabetVowel\27CheckAlphabetVowel.csproj", "{A9778466-2717-487E-B67D-E358A5E484C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27CheckAlphabetVowel", "27CheckAlphabetVowel\27CheckAlphabetVowel.csproj", "{A9778466-2717-487E-B67D-E358A5E484C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28LargestSecond", "28LargestSecond\28LargestSecond.csproj", "{298E80E2-2CA0-4317-A1BA-1ACC653ED313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28LargestSecond", "28LargestSecond\28LargestSecond.csproj", "{298E80E2-2CA0-4317-A1BA-1ACC653ED313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29MostFrequent", "29MostFrequent\29MostFrequent.csproj", "{70FB0E57-08B7-42DA-8441-31DADB262062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29MostFrequent", "29MostFrequent\29MostFrequent.csproj", "{70FB0E57-08B7-42DA-8441-31DADB262062}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingSystem", "ParkingSystem\ParkingSystem.csproj", "{3ECAA84D-57DB-4F24-8990-0D1855FA1CB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parkireuy", "Parkireuy\Parkireuy.csproj", "{87EFA755-B88F-4660-967F-C30107A092E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{3516ED75-6259-4F8D-8B85-E0B4C9801D95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +189,18 @@ Global
 		{70FB0E57-08B7-42DA-8441-31DADB262062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70FB0E57-08B7-42DA-8441-31DADB262062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70FB0E57-08B7-42DA-8441-31DADB262062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECAA84D-57DB-4F24-8990-0D1855FA1CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECAA84D-57DB-4F24-8990-0D1855FA1CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECAA84D-57DB-4F24-8990-0D1855FA1CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECAA84D-57DB-4F24-8990-0D1855FA1CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EFA755-B88F-4660-967F-C30107A092E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EFA755-B88F-4660-967F-C30107A092E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EFA755-B88F-4660-967F-C30107A092E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EFA755-B88F-4660-967F-C30107A092E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3516ED75-6259-4F8D-8B85-E0B4C9801D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3516ED75-6259-4F8D-8B85-E0B4C9801D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3516ED75-6259-4F8D-8B85-E0B4C9801D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3516ED75-6259-4F8D-8B85-E0B4C9801D95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
